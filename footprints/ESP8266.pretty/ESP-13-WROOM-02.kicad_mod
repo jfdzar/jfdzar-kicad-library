@@ -1,6 +1,6 @@
 (footprint "ESP-13-WROOM-02" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D5862E)
+  (tedit 61E2911F)
   (descr "Module, ESP-8266, ESP-13-WROOM-02, 18 pad, SMD")
   (tags "Module ESP-8266 ESP8266")
   (attr through_hole)
@@ -51,7 +51,7 @@
   (pad "17" smd oval (at 18 1.5) (size 2 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c824a5e3-df89-44cd-8628-dfb590cfba5c))
   (pad "18" smd oval (at 18 0) (size 2 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b6fc183f-bc5d-42e5-8140-8e73917464cc))
   (pad "PAD" smd rect (at 10.12 6.58) (size 4.3 4.3) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cdb664ee-3f00-4c5a-af63-9c9dadcc63d1))
-  (model "${KICAD6_3DMODEL_MOD_DIR}/ESP8266.3dshapes/ESP-13-wroom-02.wrl"
+  (model "${KICAD6_USER_3DMODEL_DIR}/ESP8266.3dshapes/ESP-13-wroom-02.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

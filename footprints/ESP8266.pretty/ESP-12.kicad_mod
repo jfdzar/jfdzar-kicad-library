@@ -1,6 +1,6 @@
 (footprint "ESP-12" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D585EB)
+  (tedit 61E290F0)
   (descr "Module, ESP-8266, ESP-12, 16 pad, SMD")
   (tags "Module ESP-8266 ESP8266")
   (attr through_hole)
@@ -51,7 +51,7 @@
   (pad "14" thru_hole oval (at 14 4) (size 2.5 1.1) (drill 0.65 (offset 0.7 0)) (layers *.Cu *.Mask "F.SilkS") (tstamp 5f6e226e-a567-408b-beb0-c8a8e2ec508f))
   (pad "15" thru_hole oval (at 14 2) (size 2.5 1.1) (drill 0.65 (offset 0.7 0)) (layers *.Cu *.Mask "F.SilkS") (tstamp f37be837-3bee-4441-b239-c214f98ba58a))
   (pad "16" thru_hole oval (at 14 0) (size 2.5 1.1) (drill 0.65 (offset 0.7 0)) (layers *.Cu *.Mask "F.SilkS") (tstamp ba54b977-6e85-4849-863a-8aba90c0983f))
-  (model "${KICAD6_3DMODEL_MOD_DIR}/ESP8266.3dshapes/ESP-12.wrl"
+  (model "${KICAD6_USER_3DMODEL_DIR}/ESP8266.3dshapes/ESP-12.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
